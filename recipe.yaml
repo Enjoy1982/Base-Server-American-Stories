@@ -170,12 +170,6 @@ tasks:
     dest: ./resources/[ADDONS]
     src: ./tmp/illenium-appearance.zip
 
-  - action: query_database
-    file: ./resources/[ADDONS]/illenium-appearance/sql/player_outfits.sql
-
-  - action: query_database
-    file: ./resources/[ADDONS]/illenium-appearance/sql/player_outfits_codes.sql
-
   # dx_hud
 
   - action: download_github
