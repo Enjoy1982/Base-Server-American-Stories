@@ -163,10 +163,12 @@ tasks:
 
   # illenium-appearance
 
-  - action: download_github
-    src: https://github.com/iLLeniumStudios/illenium-appearance
-    ref: main
-    dest: ./resources/[ADDONS]/illenium-appearance
+  - action: download_file
+    path: ./tmp/illenium-appearance.zip
+    url: https://github.com/iLLeniumStudios/illenium-appearance/releases/latest/download/illenium-appearance.zip
+  - action: unzip
+    dest: ./resources/[ADDONS]
+    src: ./tmp/illenium-appearance.zip
 
   - action: query_database
     file: ./resources/[ADDONS]/illenium-appearance/sql/player_outfits.sql
