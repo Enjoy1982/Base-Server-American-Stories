@@ -1,0 +1,60 @@
+#################################################################################
+#                                                                               #
+#       ##     ##   ##  #######  ######    ####      ####     ##     ##   ##    #
+#      ####    ### ###   ##   #   ##  ##    ##      ##  ##   ####    ###  ##    #
+#     ##  ##   #######   ## #     ##  ##    ##     ##       ##  ##   #### ##    #
+#     ##  ##   #######   ####     #####     ##     ##       ##  ##   ## ####    #
+#     ######   ## # ##   ## #     ## ##     ##     ##       ######   ##  ###    #
+#     ##  ##   ##   ##   ##   #   ##  ##    ##      ##  ##  ##  ##   ##   ##    #
+#     ##  ##   ##   ##  #######  #### ##   ####      ####   ##  ##   ##   ##    #
+#                                                                               #
+#          #####   ######    #####   ######    ####    #######   #####          #
+#         ##   ##  # ## #   ##   ##   ##  ##    ##      ##   #  ##   ##         #
+#         #          ##     ##   ##   ##  ##    ##      ## #    #               #
+#         #####      ##     ##   ##   #####     ##      ####     #####          #
+#              ##    ##     ##   ##   ## ##     ##      ## #         ##         #
+#         ##   ##    ##     ##   ##   ##  ##    ##      ##   #  ##   ##         #
+#          #####    ####     #####   #### ##   ####    #######   #####          #
+#                                                                               #
+#                       discord: https://discord.gg/En74gTrAHU                  #
+#                         autor: Enjoy_it                                       #
+#                         tebex: https://xii-monos.tebex.io/                    #
+#                                                                               #
+#################################################################################
+
+### AMERICAN STORIES - Base Server
+
+---
+
+**AMERICAN STORIES** es un servidor base diseñado meticulosamente para ofrecer una experiencia de roleplay inmersiva y altamente personalizable en FiveM. Esta base ha sido construida sobre los frameworks y scripts más avanzados y populares de la comunidad, asegurando un rendimiento óptimo y una jugabilidad fluida, al tiempo que proporciona una amplia gama de funcionalidades esenciales para cualquier servidor de roleplay serio.
+
+#### Características Destacadas:
+
+- **Optimización y Rendimiento**: Utilizamos el motor más reciente y confiable, combinado con un conjunto de scripts bien seleccionados, para garantizar que tu servidor funcione sin interrupciones, incluso en escenarios de alta demanda.
+
+- **Framework Moderno**: Con la integración de OX Framework y ESX, esta base proporciona una estructura robusta y flexible que permite un fácil desarrollo y expansión según las necesidades de tu comunidad.
+
+- **Sistemas de Economía y Vida Realista**: Incluye un sistema bancario avanzado, trabajos configurables, necesidades básicas como alimentación y sed, y un sistema de inventario intuitivo que mejora la inmersión en el juego.
+
+- **Personalización Extrema**: Herramientas como `illenium-appearance` y una variedad de scripts para la personalización de HUD, personajes, y vehículos te permiten moldear el servidor según la visión específica de tu comunidad.
+
+- **Seguridad y Control**: Con scripts como `pma-voice` para comunicación de voz y sistemas de moderación avanzada, AMERICAN STORIES no solo ofrece una experiencia de juego rica, sino también un entorno seguro y bien gestionado.
+
+- **Soporte Extendido de Mapas y Recursos**: La integración con `bob74_ipl` y otros recursos de mapas proporciona una amplia gama de locaciones y ambientes para explorar, mientras que los sistemas de gestión de recursos como `oxmysql` aseguran un backend confiable.
+
+- **Facilidad de Uso y Expansión**: Con un archivo de configuración claro y un sistema de despliegue sencillo, cualquier administrador, ya sea principiante o experimentado, puede poner en marcha y gestionar este servidor con facilidad.
+
+#### ¿Para Quién es Esta Base?
+
+**AMERICAN STORIES** es ideal para aquellos que buscan crear un servidor de roleplay serio y profesional, ya sea para comunidades emergentes o servidores establecidos que buscan una actualización moderna. Este servidor base está listo para ser personalizado y expandido, permitiéndote construir sobre una fundación sólida que equilibra rendimiento, funcionalidad, y experiencia del usuario.
+
+#### Instrucciones de Configuración
+
+Sigue las instrucciones proporcionadas en este repositorio para configurar tu servidor de AMERICAN STORIES. Asegúrate de revisar la documentación detallada en cada script para obtener el máximo provecho de todas las funcionalidades que esta base tiene para ofrecer.
+
+---
+
+Con **AMERICAN STORIES**, tu comunidad de FiveM tendrá una plataforma confiable y rica en funciones para crear historias inolvidables y disfrutar de una experiencia de roleplay de alta calidad. ¡El límite es tu imaginación!
+
+
+https://raw.githubusercontent.com/Enjoy1982/Base-Server-American-Stories/main/recipe.yaml
