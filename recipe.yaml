@@ -265,7 +265,7 @@ tasks:
 
   - action: download_github
     src: https://github.com/Xogy/xsound
-    ref: main
+    ref: master
     dest: ./resources/[DEPENDENCIAS]/xsound
 
   ## PLUGINS
