@@ -292,7 +292,7 @@ tasks:
     dest: ./resources/[PLUGGINS]/mana_hunting
 
   - action: download_github
-    src: https://github.com/Enjoy1982/base-server/esxLogo.png
+    src: https://github.com/Enjoy1982/Base-Server-American-Stories/blob/main/esxLogo.png
     ref: main
     dest: ./tmp/esxLogo.png
 
@@ -302,7 +302,7 @@ tasks:
 
 
   - action: download_github
-    src: https://github.com/Enjoy1982/base-server/server.cfg
+    src: https://github.com/Enjoy1982/Base-Server-American-Stories/blob/main/server.cfg
     ref: main
     dest: ./tmp/server.cfg
 
